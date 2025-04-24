@@ -3,8 +3,6 @@ Python-based analysis to identify and categorize high-flaring well pads in the B
 📁 Repository Contents
 bakken_flaring_analysis.ipynb — Google Colab notebook containing the full workflow (preprocessing, clustering, threshold filtering, visualizations).
 
-data/ — Folder for raw or processed sample datasets.
-
 visualizations/ — Animated HTML heatmaps and monthly flaring plots.
 
 README.md — Project overview and instructions.
